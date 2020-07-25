@@ -1,7 +1,7 @@
 {
   "name": "parcel-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate repository for quickly getting started building vanilla HTML-CSS-JS sites.",
+  "description": "A boilerplate repository for quickly getting started building vanilla HTML-CSS-JS websites.",
   "main": "index.js",
   "scripts": {
     "start": "parcel *.html",
