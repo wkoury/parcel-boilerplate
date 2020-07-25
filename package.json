@@ -1,0 +1,16 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate repository for quickly getting started building vanilla HTML-CSS-JS sites.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel *.html",
+    "build": "parcel build *.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
