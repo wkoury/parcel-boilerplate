@@ -1,5 +1,5 @@
 # Prerequisites
-Have node.js installed
+Have [Node.js]( https://nodejs.org/en/) installed
 
 # How to Install
 ```
